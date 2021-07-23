@@ -1,0 +1,13 @@
+target
+.idea
+*.iml
+test-output
+*.xlsm
+*.properties
+iftuc
+diceSearchPage2.java
+diceSearchPage3.java
+diceSearchPage4.java
+diceSearchPagePage_Saved.java
+diceUpdatePage.java
+diceUpdatePage2.java
